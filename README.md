@@ -1,2 +1,2 @@
 # oop_lab1_task1
-# Pirson Ilya Anatolyevich
+# Пирсон Илья ПОИТ 6 группа
